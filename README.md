@@ -1,7 +1,7 @@
 Entendendo o Desafio
  
  Instruções para entrega
- # 2️⃣ Calculadora de partidas Rankeadas
+ # 2️⃣ Calculadora de partidas Ranqueadas
 **O Que deve ser utilizado**
 
 - Variáveis
